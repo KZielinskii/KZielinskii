@@ -1,4 +1,5 @@
 ### Tworzę magię w świecie programowania! 
+![CatComputerGIF](https://github.com/KZielinskii/KZielinskii/assets/58587948/b00083a3-034c-4aa4-92bf-c46bf5dd674b)
 
 <!--
 **KZielinskii/KZielinskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
