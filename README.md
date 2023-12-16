@@ -1,33 +1,21 @@
 # Witaj na moim profilu GitHub!
 
-Cześć, jestem [Twoje Imię i Nazwisko]! 👋
+Cześć, jestem Kacper Zieliński! 👋
 
 ## O mnie
 
-Jestem pasjonatem programowania i technologii. Specjalizuję się w [tutaj wpisz swoje główne obszary zainteresowań, np. web development, sztuczna inteligencja, itp.]. Moją misją jest tworzenie innowacyjnych i użytecznych rozwiązań.
+Jestem pasjonatem programowania i technologii. Moją misją jest tworzenie innowacyjnych i użytecznych rozwiązań.
 
 ## Moje umiejętności
 
-- **Języki programowania:** [tutaj wpisz języki, którymi się posługujesz, np. JavaScript, Python, Java]
-- **Frameworki:** [tutaj wpisz frameworki, z którymi masz doświadczenie, np. React, Django, Spring]
-- **Bazy danych:** [tutaj wpisz bazy danych, których używasz, np. MongoDB, MySQL]
-- **Inne umiejętności:** [tutaj wpisz inne istotne umiejętności, np. Git, Docker, testowanie jednostkowe]
-
-## Projekty
-
-### [Nazwa Projektu 1](link_do_projektu_1)
-
-Krótki opis projektu 1.
-
-### [Nazwa Projektu 2](link_do_projektu_2)
-
-Krótki opis projektu 2.
+- **Języki programowania:** Python, Java, C, C++, Dart
+- **Frameworki:** React, Spring
+- **Bazy danych:** MySQL, firebase
+- **Inne umiejętności:** Git, Linux
 
 ## Kontakt
 
-- 💼 LinkedIn: [Twój profil LinkedIn](link_do_profilu_linkedin)
-- 🐦 Twitter: [@TwójNickNaTwitterze](link_do_profilu_twitter)
-- 📧 Email: [TwójAdresEmail@example.com](mailto:TwójAdresEmail@example.com)
+- 📧 Email: [kapi_ziel@wp.pl](mailto:TwójAdresEmail@example.com)
 
 ## Statystyki GitHub
 
