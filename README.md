@@ -19,6 +19,6 @@ Jestem pasjonatem programowania i technologii. Moją misją jest tworzenie innow
 
 ## Statystyki GitHub
 
-![Statystyki GitHub](https://github-readme-stats.vercel.app/api?username=TwójNickGitHub&show_icons=true)
+![Statystyki GitHub](https://github-readme-stats.vercel.app/api?username=KZielinskii&show_icons=true)
 
 Dziękuję za odwiedzenie mojego profilu!😊
