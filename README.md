@@ -15,7 +15,7 @@ Jestem pasjonatem programowania i technologii. Moją misją jest tworzenie innow
 
 ## Kontakt
 
-- 📧 Email: [kapi_ziel@wp.pl](mailto:TwójAdresEmail@example.com)
+- 📧 Email: [kapi_ziel@wp.pl](mailto:kapi_ziel@wp.pl)
 
 ## Statystyki GitHub
 
