@@ -1,17 +1,36 @@
-### Tworzę magię w świecie programowania! 
-![CatComputerGIF](https://github.com/KZielinskii/KZielinskii/assets/58587948/b00083a3-034c-4aa4-92bf-c46bf5dd674b)
+# Witaj na moim profilu GitHub!
 
-<!--
-**KZielinskii/KZielinskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cześć, jestem [Twoje Imię i Nazwisko]! 👋
 
-Here are some ideas to get you started:
+## O mnie
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Jestem pasjonatem programowania i technologii. Specjalizuję się w [tutaj wpisz swoje główne obszary zainteresowań, np. web development, sztuczna inteligencja, itp.]. Moją misją jest tworzenie innowacyjnych i użytecznych rozwiązań.
+
+## Moje umiejętności
+
+- **Języki programowania:** [tutaj wpisz języki, którymi się posługujesz, np. JavaScript, Python, Java]
+- **Frameworki:** [tutaj wpisz frameworki, z którymi masz doświadczenie, np. React, Django, Spring]
+- **Bazy danych:** [tutaj wpisz bazy danych, których używasz, np. MongoDB, MySQL]
+- **Inne umiejętności:** [tutaj wpisz inne istotne umiejętności, np. Git, Docker, testowanie jednostkowe]
+
+## Projekty
+
+### [Nazwa Projektu 1](link_do_projektu_1)
+
+Krótki opis projektu 1.
+
+### [Nazwa Projektu 2](link_do_projektu_2)
+
+Krótki opis projektu 2.
+
+## Kontakt
+
+- 💼 LinkedIn: [Twój profil LinkedIn](link_do_profilu_linkedin)
+- 🐦 Twitter: [@TwójNickNaTwitterze](link_do_profilu_twitter)
+- 📧 Email: [TwójAdresEmail@example.com](mailto:TwójAdresEmail@example.com)
+
+## Statystyki GitHub
+
+![Statystyki GitHub](https://github-readme-stats.vercel.app/api?username=TwójNickGitHub&show_icons=true)
+
+Dziękuję za odwiedzenie mojego profilu!😊
