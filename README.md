@@ -1,6 +1,4 @@
-# Witaj na moim profilu GitHub!
-
-Cześć, jestem Kacper Zieliński! 👋
+# Cześć, jestem Kacper Zieliński! 👋
 
 ## O mnie
 
