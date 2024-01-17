@@ -7,7 +7,7 @@ Jestem pasjonatem programowania i technologii. Moją misją jest tworzenie innow
 ## Moje umiejętności
 
 - **Języki programowania:** Dart, Java, C, C++, Python
-- **Frameworki:** React, Spring
+- **Frameworki:** Flutter, React, Spring
 - **Bazy danych:** MySQL, Firebase
 - **Inne umiejętności:** Git, Linux
 
