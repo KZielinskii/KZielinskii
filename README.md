@@ -4,7 +4,7 @@
 
 ###
 
-###[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1&multiline=true&width=1400&height=50&lines=Jestem+inżynierem+Informatyki+oraz+studentem+II+stopnia+Politechniki+Łódzkiej+na+kierunku+Informatyka.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1&multiline=true&width=1400&height=50&lines=Jestem+inżynierem+Informatyki+oraz+studentem+II+stopnia+Politechniki+Łódzkiej+na+kierunku+Informatyka.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1&multiline=true&width=1400&height=50&lines=Informatyka+to+moja+pasja.)](https://git.io/typing-svg)
 
 ###
