@@ -13,7 +13,7 @@
 
 - **Języki programowania:** Java, Dart, C, C++, Python
 - **Frameworki:** Spring, Hibernate, Flutter, React
-- **Bazy danych:** MySQL, Firebase
+- **Bazy danych:** MySQL, Firebase, Postgresql
 - **Inne umiejętności:** Git, Linux
 
 ## Kontakt
