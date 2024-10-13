@@ -1,4 +1,4 @@
-# Cześć, jestem Kacper Zieliński! 👋
+# Cześć, jestem Kacper👋
 
 ## O mnie
 
