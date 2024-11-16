@@ -1,7 +1,5 @@
 # Cześć, jestem Kacper👋
 
-## O mnie
-
 ###
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&font_size=38&duration=3000&pause=5&multiline=true&width=1400&height=50&lines=Jestem+inżynierem+Informatyki+oraz+studentem+II+stopnia+Politechniki+Łódzkiej+na+kierunku+Informatyka.)](https://git.io/typing-svg)
