@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3000&pause=5&multiline=true&width=1400&height=50&lines=Jestem+Kacper!+💻;Inżynier+Informatyki+%26+student+Politechniki+Łódzkiej.;Kodowanie+to+moja+pasja!)](https://git.io/typing-svg)
 
-###
-
 ## ✨ Kilka słów o mnie:
 
 🌟 Jestem inżynierem informatyki i studentem II stopnia na Politechnice Łódzkiej. Informatyka to dla mnie coś więcej niż zawód – to sposób na realizowanie swoich pasji i kreatywnych pomysłów!  
