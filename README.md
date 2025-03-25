@@ -1,4 +1,4 @@
-# Hej! Miło Cię widzieć 👋
+# Miło Cię widzieć 👋
 
 ###
 
@@ -43,4 +43,3 @@
 ---
 
 Dzięki za odwiedzenie mojego profilu! 😊  
-📖 Mam nadzieję, że znajdziesz tutaj coś ciekawego!
