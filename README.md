@@ -14,7 +14,7 @@
 ## 🛠️ Moje umiejętności:
 
 - **Języki programowania:**  
-  🖋️ Java, Dart, C, C++, Python  
+  🖋️ Java, JavaScript, Dart, C, C++, Python  
 
 - **Frameworki i technologie:**  
   🚀 Spring, Hibernate, Flutter, React  
