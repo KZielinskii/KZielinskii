@@ -16,7 +16,7 @@
   🖋️ Java, JavaScript, Dart, C, C++, Python  
 
 - **Frameworki i technologie:**  
-  🚀 Spring, Hibernate, Flutter, React  
+  🚀 Spring, React, Hibernate, Flutter  
 
 - **Bazy danych:**  
   💾 MySQL, Firebase, PostgreSQL  
