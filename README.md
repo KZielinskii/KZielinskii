@@ -70,5 +70,5 @@ Jestem programistą specjalizującym się w **PHP oraz WordPress**, skupionym g�
 
 ## 📫 Kontakt
 
-📧 Email: **kapi_ziel@wp.pl**  
+📧 Email: **zielinskikacper.inf@gmail.com**  
 💼 GitHub: https://github.com/KZielinskii
