@@ -63,7 +63,6 @@ Jestem programistą specjalizującym się w **PHP oraz WordPress**, skupionym g�
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KZielinskii&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=KZielinskii&theme=github-dark&hide_border=true" height="180"/>
 </p>
 
 ---
