@@ -72,13 +72,6 @@ Jestem programistą specjalizującym się w **PHP oraz WordPress**, skupionym g�
 
 ---
 
-## 🧠 Ciekawostka
-
-💬 Lubię pracować z systemami rozwijanymi przez lata —  
-tam programowanie to nie tylko pisanie kodu, ale **rozumienie go**.
-
----
-
 ## 📫 Kontakt
 
 📧 Email: **kapi_ziel@wp.pl**  
