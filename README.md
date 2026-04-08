@@ -1,33 +1,33 @@
 <h1 align="center">👋 Cześć, jestem Kacper Zieliński</h1>
-<h3 align="center">💻 PHP / WordPress Developer</h3>
+<h3 align="center">💻 Fullstack Developer (PHP / WordPress)</h3>
 
 <p align="center">
   🚀 Tworzę i rozwijam realne systemy webowe<br>
-  🧠 Backend • ⚙️ Logika biznesowa • 📈 Optymalizacja
+  ⚙️ Backend • 🎨 Frontend • 🧠 Logika biznesowa • 📈 Optymalizacja
 </p>
 
 ---
 
 ## 🧠 O mnie
 
-Jestem programistą specjalizującym się w **PHP oraz WordPress**, skupionym głównie na backendzie i aplikacjach webowych.
+Jestem **Fullstack Developerem**, pracującym głównie w technologiach **PHP oraz WordPress**, z doświadczeniem zarówno w backendzie, jak i frontendzie.
 
-🧩 Pracuję z rozbudowanymi systemami (legacy code)  
-🔍 Analizuję istniejącą logikę i bezpiecznie rozwijam projekty  
-⚡ Dobrze odnajduję się w złożonych, biznesowych środowiskach  
+🧩 Rozwijam i utrzymuję rozbudowane systemy (legacy code)  
+🔍 Analizuję istniejącą logikę i bezpiecznie wprowadzam zmiany  
+⚡ Sprawnie poruszam się w złożonych projektach biznesowych  
 
-💡 Najlepiej czuję się tam, gdzie:
-- kod ma historię
-- dokumentacja nie zawsze istnieje 😄
-- trzeba szybko znaleźć i rozwiązać problem
+💡 Najlepiej odnajduję się tam, gdzie:
+- systemy są rozwijane od lat
+- dokumentacja jest niepełna lub nieaktualna 😄
+- liczy się szybkie rozwiązywanie realnych problemów
 
 ---
 
 ## 🚀 Aktualnie rozwijam się w kierunku
 
-- ⚙️ Systemów opartych o WordPress
-- 📈 Wydajności i SEO
-- 🧠 Backendu i logiki biznesowej
+- ⚙️ Zaawansowanych systemów opartych o WordPress
+- 📈 Optymalizacji wydajności i SEO
+- 🧠 Architektury aplikacji i logiki biznesowej
 - 📱 Aplikacji mobilnych (Flutter)
 
 ---
