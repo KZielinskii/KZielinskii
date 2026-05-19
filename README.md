@@ -1,38 +1,46 @@
 <h1 align="center">👋 Cześć, jestem Kacper Zieliński</h1>
-<h3 align="center">💻 Fullstack Developer (PHP / WordPress)</h3>
+<h3 align="center">💻 Fullstack Developer (PHP / WordPress / Mobile)</h3>
 
 <p align="center">
-  🚀 Tworzę i rozwijam realne systemy webowe<br>
-  ⚙️ Backend • 🎨 Frontend • 🧠 Logika biznesowa • 📈 Optymalizacja
+  🚀 Tworzę systemy webowe i aplikacje mobilne<br>
+  ⚙️ Backend • 🎨 Frontend • 📱 Mobile • 🧠 Logika biznesowa • 📈 Optymalizacja
 </p>
 
 ---
 
 ## 🧠 O mnie
 
-Jestem **Fullstack Developerem**, pracującym głównie w technologiach **PHP oraz WordPress**, z doświadczeniem zarówno w backendzie, jak i frontendzie.
+Jestem **Fullstack Developerem**, pracującym głównie w technologiach **PHP i WordPress**, ale coraz mocniej rozwijam się w kierunku **aplikacji mobilnych Android**.
 
+📱 Tworzę i uczę się budować aplikacje mobilne w **Java i Kotlin**  
 🧩 Rozwijam i utrzymuję rozbudowane systemy (legacy code)  
 🔍 Analizuję istniejącą logikę i bezpiecznie wprowadzam zmiany  
-⚡ Sprawnie poruszam się w złożonych projektach biznesowych  
+⚡ Poruszam się w złożonych projektach backendowych i mobilnych  
 
 💡 Najlepiej odnajduję się tam, gdzie:
 - systemy są rozwijane od lat
-- dokumentacja jest niepełna lub nieaktualna 😄
+- kod wymaga refaktoryzacji i uporządkowania
 - liczy się szybkie rozwiązywanie realnych problemów
 
 ---
 
 ## 🚀 Aktualnie rozwijam się w kierunku
 
-- ⚙️ Zaawansowanych systemów opartych o WordPress
-- 📈 Optymalizacji wydajności i SEO
-- 🧠 Architektury aplikacji i logiki biznesowej
-- 📱 Aplikacji mobilnych (Flutter)
+- 📱 Aplikacji mobilnych Android (Java / Kotlin)
+- 🧱 Architektury aplikacji mobilnych (MVVM, Clean Architecture)
+- 🔗 Integracji aplikacji mobilnych z API (REST)
+- ⚙️ Zaawansowanych systemów WordPress
+- 📈 Optymalizacji wydajności backendu i SEO
+- 🧠 Projektowania logiki biznesowej w systemach
 
 ---
 
 ## 🛠 Stack technologiczny
+
+### 📱 Mobile (Android)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### 💻 Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -48,9 +56,6 @@ Jestem **Fullstack Developerem**, pracującym głównie w technologiach **PHP or
 
 ### 🧩 Platformy
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### ⚙️ Narzędzia
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
