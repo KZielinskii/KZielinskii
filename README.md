@@ -12,7 +12,7 @@
 
 Jestem **Fullstack Developerem**, pracującym głównie w technologiach **PHP i WordPress**, z silnym naciskiem na **aplikacje mobilne**.
 
-📱 Tworzę aplikacje mobilne w **Flutterze (produkcja)** oraz natywnie w **Android (Java / Kotlin)**  
+📱 Tworzę aplikacje mobilne w **Flutterze** oraz w **Android (Java / Kotlin)**  
 🧩 Rozwijam i utrzymuję rozbudowane systemy (legacy code)  
 🔍 Analizuję istniejącą logikę i bezpiecznie wprowadzam zmiany  
 ⚡ Pracuję w złożonych systemach backendowych i mobilnych  
