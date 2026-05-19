@@ -2,7 +2,7 @@
 <h3 align="center">💻 Fullstack Developer (PHP / WordPress / Mobile)</h3>
 
 <p align="center">
-  🚀 Tworzę systemy webowe i aplikacje mobilne<br>
+  🚀 Tworzę systemy webowe i aplikacje mobilne (Android & Flutter)<br>
   ⚙️ Backend • 🎨 Frontend • 📱 Mobile • 🧠 Logika biznesowa • 📈 Optymalizacja
 </p>
 
@@ -10,12 +10,12 @@
 
 ## 🧠 O mnie
 
-Jestem **Fullstack Developerem**, pracującym głównie w technologiach **PHP i WordPress**, ale coraz mocniej rozwijam się w kierunku **aplikacji mobilnych Android**.
+Jestem **Fullstack Developerem**, pracującym głównie w technologiach **PHP i WordPress**, z silnym naciskiem na **aplikacje mobilne**.
 
-📱 Tworzę i uczę się budować aplikacje mobilne w **Java i Kotlin**  
+📱 Tworzę aplikacje mobilne w **Flutterze (produkcja)** oraz natywnie w **Android (Java / Kotlin)**  
 🧩 Rozwijam i utrzymuję rozbudowane systemy (legacy code)  
 🔍 Analizuję istniejącą logikę i bezpiecznie wprowadzam zmiany  
-⚡ Poruszam się w złożonych projektach backendowych i mobilnych  
+⚡ Pracuję w złożonych systemach backendowych i mobilnych  
 
 💡 Najlepiej odnajduję się tam, gdzie:
 - systemy są rozwijane od lat
@@ -26,21 +26,23 @@ Jestem **Fullstack Developerem**, pracującym głównie w technologiach **PHP i 
 
 ## 🚀 Aktualnie rozwijam się w kierunku
 
-- 📱 Aplikacji mobilnych Android (Java / Kotlin)
-- 🧱 Architektury aplikacji mobilnych (MVVM, Clean Architecture)
-- 🔗 Integracji aplikacji mobilnych z API (REST)
+- 📱 Architektury aplikacji mobilnych (Flutter / Android)
+- 🧱 Clean Architecture / MVVM
+- 🔗 Integracji mobile ↔ API (REST)
 - ⚙️ Zaawansowanych systemów WordPress
-- 📈 Optymalizacji wydajności backendu i SEO
-- 🧠 Projektowania logiki biznesowej w systemach
+- 📈 Optymalizacji backendu i wydajności systemów
+- 🧠 Projektowania skalowalnej logiki biznesowej
 
 ---
 
 ## 🛠 Stack technologiczny
 
-### 📱 Mobile (Android)
+### 📱 Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### 💻 Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
