@@ -92,7 +92,7 @@ Jestem **Fullstack Developerem**, który projektuje i rozwija aplikacje webowe, 
 ## 📊 Statystyki GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KZielinskii&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KZielinskii&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
