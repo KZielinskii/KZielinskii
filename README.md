@@ -89,10 +89,16 @@ Jestem **Fullstack Developerem**, który projektuje i rozwija aplikacje webowe, 
 
 ---
 
-## 📊 Statystyki GitHub
+## 📈 GitHub Overview
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KZielinskii&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KZielinskii&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KZielinskii&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KZielinskii&theme=github_dark&utcOffset=1" width="32%" />
 </p>
 
 ---
